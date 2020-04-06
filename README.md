@@ -5,8 +5,6 @@
 # Edge-Net
 A MicroPython runtime implemented for the ESP8266 SoC platform used for rapidly prototyping and building custom networked embedded automation projects involving sensing, lighting, actuation, etc.
 
-This repo is not for use in a production environment. It is for learning about Neural Net architectures and best practices.
-
 ![Build Status](https://img.shields.io/badge/build-Not_Stable-red.svg)
 ![License](https://img.shields.io/badge/license-DO_WHATEVER_YOU_WANT-green.svg)
 <br/><br/><br/>
