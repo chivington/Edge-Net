@@ -1,5 +1,5 @@
 <p align="center">
-  <img width='350' height='350' src='https://github.com/chivingtoninc/ESP-Dev/blob/master/Edge-Net/includes/upython-logo.png' alt='uPython Logo' />
+  <img width='350' height='350' src='https://github.com/chivington/Edge-Net/blob/master/includes/upython-logo.png' alt='uPython Logo' />
 </p>
 
 # Edge-Net
@@ -45,12 +45,12 @@ This repo is not for use in a production environment. It is for learning about N
 ## Usage
 Coming...
 
-Feel free to ask me questions on [GitHub](https://github.com/chivingtoninc), [Twitter](https://twitter.com/chivingtoninc), [Facebook](https://facebook.com/chivingtoninc) or [LinkedIn](https://www.linkedin.com/in/johnathan-chivington/)
+Feel free to ask me questions on [GitHub](https://github.com/chivington), [Twitter](https://twitter.com/chivington), [Facebook](https://facebook.com/chivington) or [LinkedIn](https://www.linkedin.com/in/johnathan-chivington/)
 <br/><br/>
 
 
 ## Authors
-* **Johnathan Chivington:** [GitHub](https://github.com/chivingtoninc) | [Twitter](https://twitter.com/chivingtoninc) | [Facebook](https://facebook.com/chivingtoninc) | [LinkedIn](https://www.linkedin.com/in/johnathan-chivington/)
+* **Johnathan Chivington:** [GitHub](https://github.com/chivington) | [Twitter](https://twitter.com/chivington) | [Facebook](https://facebook.com/chivington) | [LinkedIn](https://www.linkedin.com/in/johnathan-chivington/)
 
 ## Contributing
 Not currently accepting outside contributors, but feel free to clone, fork, modify and use as you wish.
